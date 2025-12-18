@@ -30,7 +30,7 @@ print(menu)
 
 def get_purchase_info(): # Convert input when necessary
     item = input( "What item do you want?")
-    Price = input( "What is the cost?")
+    price = input( "What is the cost?")
     quantity = input( "How much of it?")
     return item, price, quantity
 
