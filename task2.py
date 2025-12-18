@@ -9,7 +9,7 @@ allowance += 7
 allowance -= 8
 
 # Week 3: Savings
-allowance /= 20
+allowance /= 30
 
 # Print final allowance
 print(f" Allowance: ${allowance}")
